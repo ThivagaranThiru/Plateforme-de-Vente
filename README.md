@@ -1,4 +1,4 @@
-# Plateforme de Vente
+# eShop
 
 Le site permet de mettre en relation des fournisseurs qui proposent des articles et des clients qui vont les commander.
 
