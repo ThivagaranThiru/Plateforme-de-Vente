@@ -10,17 +10,17 @@ L’ajout des clients et des fournisseurs se fait par auto-enregistrement. Les c
 
 Les fonctionnalités implémentées sont :
 
-— Pour le fournisseur :
-  —  L’enregistrement d’un nouvel article.
-  —  La modification et/ou la suppression d’un article.
-  —  Le parcours de la liste de ses articles (par catégorie et/ou recherche).
-  —  La gestion des commandes (affichage des demandes, acceptation ou refus).
-
-— Pour le client :
-  — Liste de tous les produits.
-  — Liste des produits par fournisseur et/ou catégorie et/ou recherche.
-  — Commande d’un produit (en passant par le panier).
-  — Liste des commandes (en cours, acceptées, refusées).
+- Pour le fournisseur :
+  - L’enregistrement d’un nouvel article.
+  - La modification et/ou la suppression d’un article.
+  - Le parcours de la liste de ses articles (par catégorie et/ou recherche).
+  - La gestion des commandes (affichage des demandes, acceptation ou refus).
+  
+- Pour le client :
+  - Liste de tous les produits.
+  - Liste des produits par fournisseur et/ou catégorie et/ou recherche.
+  - Commande d’un produit (en passant par le panier).
+  - Liste des commandes (en cours, acceptées, refusées).
 
 La Base de données : users, produits, categories, panier, commandes.
 
