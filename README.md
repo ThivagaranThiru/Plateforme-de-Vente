@@ -10,6 +10,8 @@ L’ajout des clients et des fournisseurs se fait par auto-enregistrement. Les c
 
 Les fonctionnalités implémentées sont :
 
+- Les pages d’enregistrement des fournisseurs et des clients.
+
 - Pour le fournisseur :
   - L’enregistrement d’un nouvel article.
   - La modification et/ou la suppression d’un article.
