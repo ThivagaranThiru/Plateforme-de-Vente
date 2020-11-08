@@ -27,4 +27,3 @@ Les fonctionnalités implémentées sont :
 La Base de données : users, produits, categories, panier, commandes.
 
 Technologies utilisées : Brackets, WampServer, PHP, HTML, CSS, Boostrap, MySQL, Apache2.
-
